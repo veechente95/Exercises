@@ -1,0 +1,9 @@
+# Write a program to accept a string from the user and display characters that are present at an even index number.
+# For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
+
+word = (str(input("Enter a word, I will print the even index of it: ")))
+length = len(word)
+
+print("printing only even index chars")
+for i in range(0, length -1, 2):
+    print("index[", i, "]", word[i])
