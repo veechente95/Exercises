@@ -1,4 +1,4 @@
-👋Hello! I’m @veechente95. I'm a self-taught python developer seeking to launch a career as a software engineer in the world of tech. I’m currently learning how to code using bootcamps and other online resources. 
+👋Hello! I’m @veechente95. I'm a self-taught python developer seeking to launch a career in the world of tech. I’m currently learning how to code using bootcamps and other online resources. 
 
 As a first generation Mexican-American self-taught python developer, I acknowledge the lack of diversity in traditional STEM fields and want to break the stigma by providing a diverse open door for future POC and Latinx folks coming from different communities, backgrounds and technical abilities. I want to use my story to help guide others who may have also experienced similar cases of imposter syndrome. I’m looking forward to developing impactful projects and taking the time to collaborate with others who are passionate about their work.
 
